@@ -24,5 +24,3 @@ terraform apply -auto-approve
 - The cluster scales automatically between 1 and 3 nodes.
 - `SystemAssigned` identity allows you to attach Azure-managed permissions later if needed.
 - Always store your kubeconfig securely; Terraform marks it as sensitive.
-
-With this in place, commit everything to your `Hybrid-H09-Azure-Kubernetes-Service-AKS-Cluster-with-Terraform` repo and submit the repo URL in Brightspace. Good luck!
