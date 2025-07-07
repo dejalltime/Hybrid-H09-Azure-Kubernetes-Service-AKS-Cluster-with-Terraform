@@ -1,5 +1,0 @@
-0000000000000000000000000000000000000000 fb67e366d5a576ac9a76a157a3dd32f34743db27 Jonathan Martins <mart1449@algonquinlive.com> 1751846234 -0400	commit (initial): first commit
-fb67e366d5a576ac9a76a157a3dd32f34743db27 fb67e366d5a576ac9a76a157a3dd32f34743db27 Jonathan Martins <mart1449@algonquinlive.com> 1751846234 -0400	Branch: renamed refs/heads/master to refs/heads/main
-fb67e366d5a576ac9a76a157a3dd32f34743db27 7188d92c0470d8c31bb420419090a6913e26f68f Jonathan Martins <mart1449@algonquinlive.com> 1751848420 -0400	commit: working
-7188d92c0470d8c31bb420419090a6913e26f68f fe6aaa5e6baa25716ad8b8e3ba5c622850a564a2 Jonathan Martins <mart1449@algonquinlive.com> 1751848503 -0400	commit: chore: remove .terraform plugins and ignore directory
-fe6aaa5e6baa25716ad8b8e3ba5c622850a564a2 178a61f31aa98e30bdabd54714ea1bc021088c6e Jonathan Martins <mart1449@algonquinlive.com> 1751848686 -0400	commit: chore: untrack Terraform plugins
