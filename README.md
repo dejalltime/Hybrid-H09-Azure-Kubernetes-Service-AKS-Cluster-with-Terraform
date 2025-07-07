@@ -14,7 +14,7 @@
 cd path/to/Hybrid-H09-Azure-Kubernetes-Service-AKS-Cluster-with-Terraform
 terraform init
 terraform apply -auto-approve
-
+```
 
 ---
 
